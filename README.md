@@ -50,22 +50,23 @@ Technologies Used:
 ---
 
 ## 📁 Folder Structure
+
+```plaintext
 Customer-Behaviour/
 ├── backend/
-│ ├── app.py # Flask backend
-│ ├── model.py # Training & preprocessing
-│ ├── health_risk_model.h5 # Trained model
-│ ├── preprocessor.pkl # Data scaler / encoder
-│ ├── requirements.txt
-│ └── .env
+│   ├── app.py                # Flask backend
+│   ├── model.py              # Training & preprocessing
+│   ├── health_risk_model.h5  # Trained model
+│   ├── preprocessor.pkl      # Data scaler / encoder
+│   ├── requirements.txt
+│   └── .env
 ├── frontend/
-│ ├── src/ # React code
-│ ├── public/ # Static assets
-│ └── dist/ # Build output
+│   ├── src/                  # React code
+│   ├── public/               # Static assets
+│   └── dist/                 # Build output
 ├── .gitignore
 └── README.md
-
----
+```
 
 ## ⚙️ Quick Start
 
@@ -97,11 +98,13 @@ https://cdn.iiit.ac.in/cdn/rndshowcase.iiit.ac.in/tto2025/TTO_website_data/PDF/1
 4. Multilingual support
 
 👨‍💻 Team-03
-Name                Roll No
-G. Sai Saatvik	    23BD1A058M
-K. Rajkumar	        24BD5A0530
-S. Akshaya	        23BD1A661W
-A. Bavesha Prasad	  23BD1A6768
+| Name              | Roll No        |
+|------------------:|---------------:|
+| G. Sai Saatvik    | 23BD1A058M     |
+| K. Rajkumar       | 24BD5A0530     |
+| S. Akshaya        | 23BD1A661W     |
+| A. Bavesha Prasad | 23BD1A6768     |
+
 
 Mentors: Mr. A. Gnanesh, Mr. K. Rajesh
 
