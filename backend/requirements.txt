@@ -5,3 +5,5 @@ python-dotenv
 numpy
 tensorflow
 pandas
+flask_socketio
+scikit-learn==1.6.1

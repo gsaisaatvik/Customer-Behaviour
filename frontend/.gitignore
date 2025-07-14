@@ -1,3 +1,21 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# Node.js / frontend
+frontend/node_modules/
+frontend/dist/
+dist/
+dist-ssr/
+
 # Logs
 logs
 *.log
@@ -7,21 +25,49 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
+# Build output
+build/
+coverage/
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
+# OS files
 .DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+!.vscode/extensions.json
+.idea/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
-__pycache__/
-build/
-dist/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Archives
+*.zip
+
+# Local config files
+*.local
+*.pid
+*.seed
+*.pid.lock
+
+# Compiled source #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# TypeScript build artifacts
+*.tsbuildinfo
+
+# Misc
+node_modules/
+npm-debug.log
