@@ -6,7 +6,6 @@ A real-time, AI-powered system that **predicts insurance customer behavior**, cl
 > 📖 *Inspired by the book “AI 2041” — showing how AI can transform industries like insurance.*
 > GANESH Insurance stands for *Generative AI Neural network Ensuring Smart Human-like contract*.
 > It leverages a cutting-edge deep learning model to analyze health and lifestyle factors, offering personalized insurance plans tailored to individual needs.
----
 
 ## ✨ Why this project matters
 
